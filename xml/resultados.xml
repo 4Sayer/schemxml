@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<jornada fecha="2026-09-27" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../xsd/resultados.xsd">
+
+    <partido>
+        <equipo_local>Pumas</equipo_local>
+        <equipo_visitante>Atletico de San Luis</equipo_visitante>
+        <goles_local>2</goles_local>
+        <goles_visitante>3</goles_visitante>
+        <estadio>Olímpico Universitario</estadio>
+    </partido>
+
+    <partido>
+        <equipo_local>Leon</equipo_local>
+        <equipo_visitante>FC Juarez</equipo_visitante>
+        <goles_local>2</goles_local>
+        <goles_visitante>1</goles_visitante>
+        <estadio>Leon</estadio>
+    </partido>
+
+    <partido>
+        <equipo_local>Leon</equipo_local>
+        <equipo_visitante>FC Juarez</equipo_visitante>
+        <goles_local>2</goles_local>
+        <goles_visitante>1</goles_visitante>
+        <estadio>Leon</estadio>
+    </partido>
+
+
+
+</jornada>
